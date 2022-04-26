@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Home Pages
 [qiwonn.github.io](https://qiwonn.github.io)
 
-学习让我快乐!一棵小树在知识的海洋里汲取养分成长成参天大树，一个凡人在实践的社会中不断突破自己，最终成长为对社会有用的人。
+学习让我快乐!一棵小树在知识的海洋里汲取养分成长成参天大树，一个凡人在实践的社会中不断突破自己，最终成长为对社会有用的人👍。
 
 ### Markdown
 
